@@ -1,0 +1,33 @@
+=============== Apr 21, 2021 (PDT) ===============
+08:41:48.619910 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+08:41:48.649893 db@open opening
+08:41:48.653891 version@stat F·[] S·0B[] Sc·[]
+08:41:48.707860 db@janitor F·2 G·0
+08:41:48.707860 db@open done T·57.967ms
+08:41:48.714856 db@close closing
+08:41:48.714856 db@close done T·0s
+=============== Apr 21, 2021 (PDT) ===============
+08:42:58.168300 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+08:42:58.169300 version@stat F·[] S·0B[] Sc·[]
+08:42:58.169300 db@open opening
+08:42:58.169300 journal@recovery F·1
+08:42:58.176296 journal@recovery recovering @1
+08:42:58.210277 memdb@flush created L0@2 N·15 S·1KiB "H\x9f\xf8..uǾ,v8":"\xc4t%..\x0e\xed\x9d,v3"
+08:42:58.217291 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+08:42:58.292301 db@janitor F·3 G·0
+08:42:58.292301 db@open done T·123.0014ms
+08:42:58.969997 db@close closing
+08:42:58.969997 db@close done T·0s
+=============== Apr 21, 2021 (PDT) ===============
+08:43:57.581804 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+08:43:57.581804 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+08:43:57.581804 db@open opening
+08:43:57.582803 journal@recovery F·1
+08:43:57.769697 journal@recovery recovering @3
+08:43:57.808674 memdb@flush created L0@5 N·3 S·497B "Dat..ion,v17":"cli..uǾ,v19"
+08:43:57.987572 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+08:43:58.064738 db@janitor F·4 G·0
+08:43:58.064738 db@open done T·482.9336ms
+=============== Apr 22, 2021 (PDT) ===============
+19:45:40.991166 db@close closing
+19:45:40.992165 db@close done T·999.5µs
